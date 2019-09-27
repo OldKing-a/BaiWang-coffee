@@ -1,4 +1,5 @@
-# QiKe-bus
-QIKe bus is dedicated to facilitating People's Daily life and promoting novel and practical articles for daily use. Enable people to purchase the daily necessities they need with high efficiency and quality in their daily life. The products we show are unique and practical, giving you a convenient and personalized lifestyle.
-Our app displays a full range of novel life articles, including personalized car articles, interesting children's articles, practical mini appliances, novel personal care articles, intelligent products, practical daily necessities, personalized cleaning articles and other novel life articles. These kinds of novel articles of daily use can satisfy the user's choice and purchase. At the same time, our app classifies these commodities in a very detailed way, which is helpful for users to quickly find the personalized daily necessities they want to buy.
+Mango coffee is committed to promoting delicious coffee drinks so that people can purchase the best coffee and tea drinks efficiently and efficiently in their daily life. Our coffee drinks insist on using the best raw materials, make the most careful coffee drinks, refuse all additives, let people buy at ease, eat at ease.
+Our app shows a full range of drinks, including coffee, coffee beans, fruit tea, milk tea, cola, ice drinks and other kinds of drinks. A wide range of coffee drinks can be selected and purchased by users. At the same time, our app classifies these coffee drinks in a very detailed way, which helps users quickly find the cakes and desserts they want to buy.
+Go mango coffee and choose your favorite drink.
+
 If you have any questions, please contact us at schornakmorin@gmail.com
